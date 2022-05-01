@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/tuyan.png</file>
+        <file>image/xiyan.png</file>
+    </qresource>
+</RCC>
